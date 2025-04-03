@@ -1,6 +1,12 @@
 ## ✈ Flight Deal Finder<br>
-📌 Project Overview
-Flight Deal Finder is an automated system that helps users find the best flight deals by tracking prices and sending alerts when prices drop below a certain threshold. It integrates with Google Sheets, Amadeus API, and Twilio to fetch flight details and notify users via SMS or WhatsApp.
+
+
+
+![Notification Screenshot](https://github.com/user-attachments/assets/19f86d80-8064-40e0-bb92-c08adb12da2b)<br>
+## 📌 Project Overview
+
+
+ Deal Finder is an automated system that helps users find the best flight deals by tracking prices and sending alerts when prices drop below a certain threshold. It integrates with Google Sheets, Amadeus API, and Twilio to fetch flight details and notify users via SMS or WhatsApp.
 
 🛠 Features
 Retrieves flight price data from Google Sheets.
