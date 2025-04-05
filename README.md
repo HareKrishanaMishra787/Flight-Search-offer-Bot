@@ -2,7 +2,7 @@
 
 
 
-![Notification Screenshot](https://github.com/user-attachments/assets/19f86d80-8064-40e0-bb92-c08adb12da2b)<br>
+<img src = "https://github.com/user-attachments/assets/19f86d80-8064-40e0-bb92-c08adb12da2b" width ="300"><br>
 ## 📌 Project Overview
 
 
